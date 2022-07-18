@@ -7,6 +7,12 @@
 ### Sobre a **API**  💻
 A **API** sí resumir em um gerenciamento de comércio ‘online’ onde você pode criar e adicionar usuários na lista do banco de dados, adicionar e criar todo tipo de produtos, Também e possivel efetuar compras desses produtos, filtrar usuários e suas compras efetuadas, filtrar por produtos disponíveis na lista e ordenar em ordem decrescente e acrescente.
 
+## Modelo conceitual
+![Captura de Tela (179)](https://user-images.githubusercontent.com/86306877/179550127-6602b74c-2c04-4e30-9149-025fdf692e35.png)
+
+## Competências
+- REST
+
 ### Metodos
 - `GET`
 - `POST`
